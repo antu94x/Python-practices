@@ -1,0 +1,1 @@
+print("Name : Antu Das"),print("age : 18"),print("District : Cox's bazar"),print("Country : Bangladesh")

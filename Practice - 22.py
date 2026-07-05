@@ -1,0 +1,14 @@
+val=7
+print("Before changing value =",val)
+val+=1
+print("After val+=1",val)
+val-=3
+print("After val-=3",val)
+val*=4
+print("After val*=4",val)
+val/=5
+print("After val/=5",val)
+val%=2
+print("After val%=2",val)
+val//=2
+print("After val//=2",val)
