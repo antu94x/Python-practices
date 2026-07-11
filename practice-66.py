@@ -8,11 +8,12 @@ while i<=10:
     total+=i
     i+=2
 
-print("Using while loop 1 to",N,"odd number sum =",total)
+print("Using while loop 1 to",N,"odd numbers sum =",total)
 
 #Using for loop
 for i in range(1,N+1,2):
     total+=i
     
-print(total)
+print("Using for loop 1 to",N,"odd numbers sum =",total)
+
 
