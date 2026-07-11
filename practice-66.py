@@ -4,16 +4,17 @@ total=0
 #Using while loop
 
 i=1
-while i<=10:
+while i<=N:
     total+=i
     i+=2
 
 print("Using while loop 1 to",N,"odd numbers sum =",total)
 
 #Using for loop
+Total=0
 for i in range(1,N+1,2):
-    total+=i
+    Total+=i
     
-print("Using for loop 1 to",N,"odd numbers sum =",total)
+print("Using for loop 1 to",N,"odd numbers sum =",Total)
 
 
