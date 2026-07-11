@@ -1,6 +1,6 @@
-#The sum of numbers between 1 and 100 divisible by 5.
+#The sum of numbers between 1 to N divisible by 5.
 
- N=int(input("Enter number for odd numbers sum =",))
+ N=int(input("Enter number for odd numbers sum ="))
 
 total=0
 #Using while loop
